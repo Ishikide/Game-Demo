@@ -1,3 +1,3 @@
 # Game Demo
-###Introduction
+#Introduction\
 Here is a project I am currently building
